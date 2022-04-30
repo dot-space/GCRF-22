@@ -38,7 +38,7 @@
 
 | Sr.no. | Code        | Lab Link     | YT Link        |
 | ------ | ----------- | ------------ | -------------- |
-| 1      | GSP 406 or 071  | [ Using BigQuery in the Google Cloud Console <br> OR <br>  BigQuery: Qwik Start - Comman Line   | [Click here] | (https://youtu.be/U-KIr-BBzSk) |
+| 1      | GSP 406 or 071  | [ Using BigQuery in the Google Cloud Console <br> OR <br>  BigQuery: Qwik Start - Comman Line   | [Click here] (https://youtu.be/U-KIr-BBzSk) |
 | 2      | GSP 281 | [ Introduction to SQL for BigQuery and Cloud SQL ](https://www.cloudskillsboost.google/focuses/2802?parent=catalog) | [Click here](https://youtu.be/gqxQxIpD6Ao) |
 | 3      | GSP 160 | [ Exploring NCAA Data with BigQuery ](https://www.cloudskillsboost.google/focuses/624?parent=catalog) | [Click here](https://youtu.be/xSU64bYUFw0) |
 | 4      | GSP 461 | [ Bracketology with Google Machine Learning ](https://www.cloudskillsboost.google/focuses/4337?parent=catalog) | [Click here](https://youtu.be/PehySyi3TIw) |
