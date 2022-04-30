@@ -38,7 +38,7 @@
 
 | Sr.no. | Code        | Lab Link     | YT Link        |
 | ------ | ----------- | ------------ | -------------- |
-| 1      | GSP 406 or 071  | [ Using BigQuery in the Google Cloud Console <br> OR <br>  BigQuery: Qwik Start - Comman Line   | [Click here] (https://youtu.be/U-KIr-BBzSk) |
+| 1      | GSP 406 or 071  | [ Using BigQuery in the Google Cloud Console <br> OR <br>  BigQuery: Qwik Start - Comman Line   | [Click here](https://youtu.be/U-KIr-BBzSk) |
 | 2      | GSP 281 | [ Introduction to SQL for BigQuery and Cloud SQL ](https://www.cloudskillsboost.google/focuses/2802?parent=catalog) | [Click here](https://youtu.be/gqxQxIpD6Ao) |
 | 3      | GSP 160 | [ Exploring NCAA Data with BigQuery ](https://www.cloudskillsboost.google/focuses/624?parent=catalog) | [Click here](https://youtu.be/xSU64bYUFw0) |
 | 4      | GSP 461 | [ Bracketology with Google Machine Learning ](https://www.cloudskillsboost.google/focuses/4337?parent=catalog) | [Click here](https://youtu.be/PehySyi3TIw) |
@@ -107,4 +107,3 @@
 | 3      | [GSP 141]() | [ Creating an Object Detection Application Using TensorFlow ](https://www.cloudskillsboost.google/focuses/1823?parent=catalog) | [Click here]() |
 | 4      | [GSP 142]() | [ Using OpenTSDB to Monitor Time-Series Data on Cloud Platform ](https://www.cloudskillsboost.google/focuses/629?parent=catalog) | [Click here]() |
 | 5      | [GSP 138]() | [ Scanning User-generated Content Using the Cloud Video Intelligence and Cloud Vision APIs ](https://www.cloudskillsboost.google/focuses/1831?parent=catalog) | [Click here]() |
-
