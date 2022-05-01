@@ -40,16 +40,18 @@ Along the way, you will learn & practice concepts like computing, application de
 
 <p>
 There are a lot of things in store for you. We want to make sure that by the end of this program:
-
+    
+<br>
+    
 1. You can showcase what you've learned here to your professional network <b> using Google Cloud-hosted quest & skill badges (see below) </b> that you can add to your resume and professional profiles like LinkedIn. 🏆
 
 <img src="img/badges.png" />
 
-<br>
+<br><br>
 
 See the difference between a quest & a skill badge <a href="https://services.google.com/fh/files/emails/diff_quests_skillbadges.png">here</a>
 
-<br>    
+<br><br>    
     
 2. And on top of these amazing badges, get a chance to <b> win some really cool Gooogle Cloud goodies* 💪</b>. See <a href="https://dot-space.github.io/GCRF-22/prize">Prize Rules </a>section
 
