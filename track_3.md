@@ -107,4 +107,3 @@
 | 3      | [GSP 141]() | [ Creating an Object Detection Application Using TensorFlow ](https://www.cloudskillsboost.google/focuses/1823?parent=catalog) | [Click here]() |
 | 4      | [GSP 142]() | [ Using OpenTSDB to Monitor Time-Series Data on Cloud Platform ](https://www.cloudskillsboost.google/focuses/629?parent=catalog) | [Click here]() |
 | 5      | [GSP 138]() | [ Scanning User-generated Content Using the Cloud Video Intelligence and Cloud Vision APIs ](https://www.cloudskillsboost.google/focuses/1831?parent=catalog) | [Click here]() |
-
