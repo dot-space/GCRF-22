@@ -5,10 +5,12 @@
 | Sr.no. | Code        | Lab Link     | YT Link        |
 | ------ | ----------- | ------------ | -------------- |
 | 1      | GSP 281 | [Introduction to SQL for BigQuery and Cloud SQL](https://www.cloudskillsboost.google/focuses/2802?parent=catalog) | [Click here](https://www.youtube.com/watch?v=gqxQxIpD6Ao&feature=youtu.be) |
-| 2      | GSP 071 | [ BigQuery: Qwik Start - Console <br> OR<br> BigQuery: Qwik Start - Command Line   ](https://google.qwiklabs.com/focuses/1145?parent=catalog) | [Click here](https://youtu.be/QOAbLv996XA) |
+| 2      | GSP 072 | [ BigQuery: Qwik Start - Console](https://google.qwiklabs.com/focuses/1145?parent=catalog) | [Click here](https://youtu.be/QOAbLv996XA) | 
+| 2      | GSP 072| [  BigQuery: Qwik Start - Command Line ](https://www.cloudskillsboost.google/focuses/577?parent=catalog) | [Click here](https://youtu.be/qZ-f_ZpEG-k) | 
 | 3      | GSP 408 | [ Troubleshooting Common SQL Errors with BigQuery ](https://google.qwiklabs.com/focuses/3642?parent=catalog) | [Click here](https://youtu.be/jeAk7C4RK9s) |
 | 4      | GSP 240 | [ Big Data Analysis to a Slide Presentation ](https://www.cloudskillsboost.google/focuses/3565?parent=catalog) | [Click here](https://youtu.be/tqjqyfNQbfQ) |
 | 5      | GSP 216 | [ Explore and Create Reports with Data Studio ](https://www.cloudskillsboost.google/focuses/3614?parent=catalog) | [Click here](https://youtu.be/1gAbv-RLdpI) |
+| 6      | GSP 787 | [ Skill Badge:  Insights from Data with BigQuery: Challenge Lab  ](https://www.cloudskillsboost.google/focuses/11988?parent=catalog) | [Click here](https://www.youtube.com/watch?v=Gj1qrD423YI&feature=youtu.be) |
 
 ## Quest 2: BigQuery for Machine Learning
 
@@ -19,6 +21,7 @@
 | 3      | GSP 246 | [ Predict Taxi Fare with a BigQuery ML Forecasting Model ](https://www.cloudskillsboost.google/focuses/1797?parent=catalog) | [Click here](https://youtu.be/obU2uIC3SzM) |
 | 4      | GSP 461 | [ Bracketology with Google Machine Learning ](https://www.cloudskillsboost.google/focuses/4337?parent=catalog) | [Click here](https://youtu.be/PehySyi3TIw) |
 | 5      | GSP 431 | [ Integrating BigQuery ML with Dialogflow ES Chatbot ](https://www.cloudskillsboost.google/focuses/4414?parent=catalog) | [Click here](https://youtu.be/XTSaluD5wVI) |
+| 6     | GSP 341 | [ Skill Badge:   Create ML Models with BigQuery ML: Challenge Lab ](https://www.cloudskillsboost.google/focuses/14294?parent=catalog) | [Click here](https://www.youtube.com/watch?v=8RIbocl1QUM&feature=youtu.be) |
 
 
 ## Quest 3: BigQuery for Marketing Analysts
@@ -38,7 +41,8 @@
 
 | Sr.no. | Code        | Lab Link     | YT Link        |
 | ------ | ----------- | ------------ | -------------- |
-| 1      | GSP 406 or 071  | [ Using BigQuery in the Google Cloud Console <br> OR <br>  BigQuery: Qwik Start - Comman Line   | [Click here](https://youtu.be/U-KIr-BBzSk) |
+| 1      | GSP 406 | [ Using BigQuery in the Google Cloud Console ](https://www.cloudskillsboost.google/focuses/3616?parent=catalog) | [Click here](https://youtu.be/U-KIr-BBzSk) | 
+| 1      | GSP 071 | [  BigQuery: Qwik Start - Command Line ](https://www.cloudskillsboost.google/focuses/577?parent=catalog) | [Click here](https://youtu.be/qZ-f_ZpEG-k) | 
 | 2      | GSP 281 | [ Introduction to SQL for BigQuery and Cloud SQL ](https://www.cloudskillsboost.google/focuses/2802?parent=catalog) | [Click here](https://youtu.be/gqxQxIpD6Ao) |
 | 3      | GSP 160 | [ Exploring NCAA Data with BigQuery ](https://www.cloudskillsboost.google/focuses/624?parent=catalog) | [Click here](https://youtu.be/xSU64bYUFw0) |
 | 4      | GSP 461 | [ Bracketology with Google Machine Learning ](https://www.cloudskillsboost.google/focuses/4337?parent=catalog) | [Click here](https://youtu.be/PehySyi3TIw) |
@@ -62,6 +66,9 @@
 | 2      | GSP 088 | [ Building an IoT Analytics Pipeline on Google Cloud ](https://www.cloudskillsboost.google/focuses/605?parent=catalog) | [Click here](https://youtu.be/YEMWWL-LSZ8) |
 | 3      | GSP 290 | [ ETL Processing on Google Cloud Using Dataflow and BigQuery ](https://www.cloudskillsboost.google/focuses/3460?parent=catalog) | [Click here](https://youtu.be/JIz_ddCTRS0) |
 | 4      | GSP 283 | [ Cloud Composer: Copying BigQuery Tables Across Different Locations  ](https://www.cloudskillsboost.google/focuses/3528?parent=catalog) | [Click here](https://youtu.be/O-fiSiBnID8) 
+| 5      | GSP 418 | [  Skill Badge: Predict Housing Prices with Tensorflow and AI Platform  ](https://www.cloudskillsboost.google/focuses/3644?parent=catalog) | [Click here](https://youtu.be/igYEtHaCgQA) |
+| 6      | GSP 283 | [ Skill badge: Cloud Composer: Copying BigQuery Tables Across Different Locations  ](https://www.cloudskillsboost.google/focuses/3528?parent=catalog) | [Click here](https://youtu.be/O-fiSiBnID8) |
+| 7      | GSP 327 | [  Skill badge: Engineer Data in Google Cloud: Challenge Lab  ](https://www.cloudskillsboost.google/focuses/12379?parent=catalog) | [Click here](https://bit.ly/3eOZx05) |
 
 
 ## Quest 7: Cloud SQL
@@ -69,7 +76,8 @@
 | Sr.no. | Code        | Lab Link     | YT Link        |
 | ------ | ----------- | ------------ | -------------- |
 | 1      | GSP 281 | [ Introduction to SQL for BigQuery and Cloud SQL ](https://www.cloudskillsboost.google/focuses/2802?parent=catalog) | [Click here](https://youtu.be/gqxQxIpD6Ao) |
-| 2      | [GSP 15 or 152 | [ Cloud SQL for MySQL: Qwik Start <br> or <br> ](https://www.cloudskillsboost.google/focuses/936?parent=catalog) | [Click here](https://youtu.be/UrPHYuZrmpw) |
+| 2      | GSP 151 | [ Cloud SQL for MySQL: Qwik Start  ](https://www.cloudskillsboost.google/focuses/936?parent=catalog) | [Click here](https://youtu.be/UrPHYuZrmpw) |
+| 2      | GSP 152 | [  Cloud SQL for PostgreSQL: Qwik Start ](https://www.cloudskillsboost.google/focuses/937?parent=catalog) | [Click here](https://youtu.be/A0WnhdrHcNQ) | 
 | 3      | GSP 196 | [ Loading Data into Google Cloud SQL ](https://www.cloudskillsboost.google/focuses/1157?parent=catalog) | [Click here](https://youtu.be/L_J1HlLYLho) |
 | 4      | GSP 234 | [ Cloud SQL with Terraform ](https://www.cloudskillsboost.google/focuses/1215?parent=catalog) | [Click here](https://youtu.be/81mUkXz2ypI) |
 | 5      | GSP 109 | [Using Ruby on Rails with Cloud SQL for PostgreSQL](https://www.cloudskillsboost.google.qwiklabs.com/focuses/1854?parent=catalog) | [Click here](https://youtu.be/NjFg9w3fBT4) |
@@ -86,6 +94,7 @@
 | 4      | GSP 412 | [ Troubleshooting and Solving Data Join Pitfalls ](https://www.cloudskillsboost.google/focuses/3638?parent=catalog) | [Click here](https://youtu.be/HuUubwPx4aA) |
 | 5      | GSP 416 | [ Working with JSON, Arrays, and Structs in BigQuery ](https://www.cloudskillsboost.google/focuses/3696?parent=catalog) | [Click here](https://youtu.be/aXgghJh_2M4) |
 | 6     | GSP 814 | [ Build and Execute MySQL, PostgreSQL, and SQLServer to Data Catalog Connectors ](https://www.cloudskillsboost.google/focuses/11999?parent=catalog) | [Click here](https://youtu.be/--HRPEsNsBE) |
+| 7     | GSP 340 | [ Sakill badge: Build and Optimize Data Warehouses with BigQuery: Challenge Lab ](https://www.cloudskillsboost.google/focuses/14341?parent=catalog) | [Click here](#) |
 
 ## Quest 9: Scientific Data Processing
 
