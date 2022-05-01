@@ -100,8 +100,6 @@ Here's what youc an do:
 
 ---
 
-<br>
-
 <details>
     <summary>Google Cloud Skill Boost Queries</summary>
     
@@ -231,5 +229,5 @@ The above mentioned are few examples which can get your account blocked, if you 
 <p>
    Please note that once the enrolment form is closed, you won't be able to update your new profile URL. But you can still try and share your updated URL with your facilitators and ask them to share it with us and we can then decide to update the details or not based on the type of request.
 </p>
-<br>
+
 </details>
