@@ -66,20 +66,23 @@ For convinience, we have divided the topics above into 4 different tracks - star
 
 <br><br>
 
-### [Track 1 : Cloud Infrastructure Track](https://dot-space.github.io/GCRF-22/track_1)
+<ul style="list-style-type:disc">
+
+<li> <a src="https://dot-space.github.io/GCRF-22/track_1">Track 1 : Cloud Infrastructure Track</a>
 
 <br>
 
-### [Track 2 : Cloud-native Application Development Track](https://dot-space.github.io/GCRF-22/track_2)
+<li> <a src="https://dot-space.github.io/GCRF-22/track_2">Track 2 : Cloud-native Application Development Track</a>
 
 <br>
 
-### [Track 3 : Big Data & Machine Learning Track](https://dot-space.github.io/GCRF-22/track_3)
+<li> <a src="https://dot-space.github.io/GCRF-22/track_3">Track 3 : Big Data & Machine Learning Track</a>
 
 <br>
 
-### [Track 4 : Security, Machine Learning & AI](https://dot-space.github.io/GCRF-22/track_4)
+<li> <a src="https://dot-space.github.io/GCRF-22/track_4">Track 4 : Security, Machine Learning & AI</a>
 
+</ul>
 </p>
 
 ---

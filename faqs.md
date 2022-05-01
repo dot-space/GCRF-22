@@ -27,7 +27,10 @@ Already enrolled in the program? Here’s what you should know.
 
 <br>
 
-[![Redeem Credits](img/thumbnail.png)](https://youtu.be/Qid_Z1251PI)
+<video width="400" controls>
+  <source src="https://youtu.be/Qid_Z1251PI" type="video/mp4">
+</video>
+
 
 </details>
 
