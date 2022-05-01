@@ -51,7 +51,7 @@ See the difference between a quest & a skill badge <a href="https://services.goo
 
 <br>    
     
-2. And on top of these amazing badges, get a chance to <b> win some really cool Gooogle Cloud goodies\* 💪</b>. See [Prize Rules](https://dot-space.github.io/GCRF-22/prize) section
+2. And on top of these amazing badges, get a chance to <b> win some really cool Gooogle Cloud goodies* 💪</b>. See <a href="https://dot-space.github.io/GCRF-22/prize">Prize Rules </a>section
 
 <img src="img/prizes_home.png" />
 
