@@ -33,7 +33,7 @@ Already enrolled in the program? Here’s what you should know.
 
 <p>
 Video courtesy of <a href="https://www.youtube.com/channel/UCP7AcQRa7IZLUmkAtrcSzyQ/featured">Akshit from Google Cloud</a>.
-
+<br>
 Cick <a href="https://youtu.be/Qid_Z1251PI">here</a> if you are not able to view the video here.
 
 </p>
