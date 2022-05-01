@@ -1,4 +1,4 @@
-# Track 2: Cloud Infrastructure Track
+<center><h1>Track 2: Cloud-Native Application Development Track</h1></center>
 
 ## Quest 1: Google Developer Essentials:-
 

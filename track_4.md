@@ -1,4 +1,4 @@
-# Track 4: Security, Machine Learning & AI
+<center><h1>Track 4: Security, Machine Learning & AI</h1></center>
 
 ## Quest 1:
 

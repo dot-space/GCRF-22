@@ -1,6 +1,5 @@
-# GoogleCloudReady Facilitator Program
-
 <center>
+    <h1>GoogleCloudReady Facilitator Program</h1>
     <a href="https://dot-space.github.io/GCRF-22/">Home</a>
     &nbsp;
     <a href="https://dot-space.github.io/GCRF-22/prize">Prize Rules</a>
@@ -33,7 +32,11 @@ Along the way, you will learn & practice concepts like computing, application de
 <button style="background-color: #1266f1; color: white; border-radius: 5px; width: 200px; height: 35px">ENROL NOW</button>
 </a>
 
+<br>
+
 </p>
+
+
 
 ## Why should I enrol in the program?
 
@@ -43,6 +46,8 @@ There are a lot of things in store for you. We want to make sure that by the end
 1. You can showcase what you've learned here to your professional network <b> using Google Cloud-hosted quest & skill badges (see below) </b> that you can add to your resume and professional profiles like LinkedIn. 🏆
 
 <img src="img/badges.png" />
+
+<br>
 
 See the difference between a quest & a skill badge <a href="https://services.google.com/fh/files/emails/diff_quests_skillbadges.png">here</a>
 
@@ -61,15 +66,12 @@ For convinience, we have divided the topics above into 4 different tracks - star
 
 ### [Track 1 : Cloud Infrastructure Track](https://dot-space.github.io/GCRF-22/track_1)
 
-<br>
 
 ### [Track 2 : Cloud-native Application Development Track](https://dot-space.github.io/GCRF-22/track_2)
 
-<br>
 
 ### [Track 3 : Big Data & Machine Learning Track](https://dot-space.github.io/GCRF-22/track_3)
 
-<br>
 
 ### [Track 4 : Security, Machine Learning & AI](https://dot-space.github.io/GCRF-22/track_4)
 

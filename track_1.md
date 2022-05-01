@@ -1,6 +1,7 @@
-# GoogleCloudReady Facilitator Program
+
 
 <center>
+    <h1>GoogleCloudReady Facilitator Program</h1>
     <a href="https://dot-space.github.io/GCRF-22/">Home</a>
     &nbsp;
     <a href="https://dot-space.github.io/GCRF-22/prize">Prize Rules</a>
@@ -16,7 +17,7 @@
 
 ---
 
-# Track 1: Cloud Infrastructure Track
+<center><h1>Track 1: Cloud Infrastructure Track</h1></center>
 
 ## Quest 1:
 

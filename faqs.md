@@ -23,6 +23,17 @@ Already enrolled in the program? Here’s what you should know.
 <br>
 
 <details>
+    <summary>How to Reedem Credits</summary>
+
+<br>
+
+[![Redeem Credits](img/thumbnail.png)](https://youtu.be/Qid_Z1251PI)
+
+</details>
+
+---
+
+<details>
     <summary>General Program related Questions</summary>
     
 <br>
@@ -234,13 +245,13 @@ The above mentioned are few examples which can get your account blocked, if you 
 <b> How to share badges on Social media?</b>
 
 <p>
-   "1. Make your profile public.
+   1. Make your profile public.
    <br>
    2. Right-click View Public Profile and select copy link address.
    <br>
    3. Create links on your social media pages or resume.
    <br> 
-   Tip: On LinkedIn, add your badge as a certification."
+   Tip: On LinkedIn, add your badge as a certification.
 </p>
 <br>
 <b> How to check if I had successfully completed my last lab?</b>
@@ -256,13 +267,3 @@ The above mentioned are few examples which can get your account blocked, if you 
 
 </details>
 
----
-
-<details>
-    <summary>How to Reedem Credits</summary>
-
-<br>
-
-[![Redeem Credits](img/thumbnail.png)](https://youtu.be/Qid_Z1251PI)
-
-</details>

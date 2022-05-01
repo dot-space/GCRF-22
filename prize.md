@@ -21,11 +21,11 @@
 <p>
    To earn prizes in the program, you need to acheive some certain milestones - "The higher the milstones, the higher the prize!"
 
-See the milestones and the prizes associated with them below. We will record your progress on a daily basis and will evaluate it at the end of the program i.e.<b> 25th June 2022 11:59 PM</b>. If we see that you have achieved any milestone, then the prizes associated with those milestones will be delivered to you after the program has ended. 🎊 (See the <a src="FAQs"> FAQs </a> section for more information on prizes).
+See the milestones and the prizes associated with them below. We will record your progress on a daily basis and will evaluate it at the end of the program i.e.<b> 25th June 2022 11:59 PM</b>. If we see that you have achieved any milestone, then the prizes associated with those milestones will be delivered to you after the program has ended. 🎊 (See the <a src="https://dot-space.github.io/GCRF-22/faqs"> FAQs </a> section for more information on prizes).
 </p>
 <br>
 <details>
-<summary>Milestone #1 - Complete any 10 quests & 5 skill badges in the program</summary>
+<summary><b>Milestone #1 - Complete any 10 quests & 5 skill badges in the program</b></summary>
 
 <br>
 <p>
@@ -42,7 +42,7 @@ See the milestones and the prizes associated with them below. We will record you
 <br>
 
 <details>
-<summary>Milestone #2 - Complete any 20 quests & 10 skill badges in the program</summary>
+<summary><b>Milestone #2 - Complete any 20 quests & 10 skill badges in the program</b></summary>
 <br>
 <p>
     You can earn the prizes* given below by just completing any 20 quests & 10 skill badges that are part of the program.
@@ -60,7 +60,7 @@ Note:
 <br>
 
 <details>
-<summary>Milestone #3 - Complete any 30 quests & 15 skill badges in the program</summary>
+<summary><b>Milestone #3 - Complete any 30 quests & 15 skill badges in the program</b></summary>
 <br>
 
 <p>
@@ -79,7 +79,7 @@ Note:
 <br>
 
 <details>
-<summary>Ultimate Milestone: Complete all 40 Quests & 20 Skill Badges</summary>
+<summary><b>Ultimate Milestone: Complete all 40 Quests & 20 Skill Badges</b></summary>
 <br>
 
 <p>

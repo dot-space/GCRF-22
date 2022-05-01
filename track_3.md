@@ -1,4 +1,4 @@
-# Track 3: Big Data & Machine Learning Track
+<center><h1>Track 3: Big Data & Machine Learning Track</h1></center>
 
 ## Quest 1: BigQuery Basics for Data Analysts
 
