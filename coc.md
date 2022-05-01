@@ -1,6 +1,5 @@
-# GoogleCloudReady Facilitator Program
-
 <center>
+    <h1>GoogleCloudReady Facilitator Program</h1>
     <a href="https://dot-space.github.io/GCRF-22/">Home</a>
     &nbsp;
     <a href="https://dot-space.github.io/GCRF-22/prize">Prize Rules</a>
@@ -93,3 +92,16 @@ Event staff will be happy to help participants contact hotel/venue security or l
 This policy extends to talks, forums, workshops, codelabs, social media, parties, hallway conversations, all attendees, partners, sponsors, volunteers, event staff, etc. You catch our drift. Google reserves the right to refuse admittance to, or remove any person from, any Google hosted event (including future Google events) at any time in its sole discretion. This includes, but is not limited to, attendees behaving in a disorderly manner or failing to comply with this policy, and the terms and conditions herein. If a participant engages in harassing or uncomfortable behavior, the conference organizers may take any action they deem appropriate, including warning or expelling the offender from the conference with no refund.
 
 </p>
+
+---
+
+<footer>
+
+<center>
+
+<p> All data on this site is copy righted to Google</p>
+Copyright ©️ <a href="bit.ly/crf-site">GoogleCloudReady Facilitator Program</a>
+
+</center>
+
+</footer>

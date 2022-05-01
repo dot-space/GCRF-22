@@ -1,6 +1,5 @@
-# GoogleCloudReady Facilitator Program
-
 <center>
+    <h1>GoogleCloudReady Facilitator Program</h1>
     <a href="https://dot-space.github.io/GCRF-22/">Home</a>
     &nbsp;
     <a href="https://dot-space.github.io/GCRF-22/prize">Prize Rules</a>
@@ -28,9 +27,16 @@ Already enrolled in the program? Here’s what you should know.
 <br>
 
 <video width="400" controls>
-  <source src="https://youtu.be/Qid_Z1251PI" type="video/mp4">
+   <source src="video/instructions.mp4" type="video/mp4">
+   Your browser does not support HTML video.
 </video>
 
+<p>
+Video courtesy of <a href="https://www.youtube.com/channel/UCP7AcQRa7IZLUmkAtrcSzyQ/featured">Akshit from Google Cloud</a>.
+
+Cick <a href="https://youtu.be/Qid_Z1251PI">here</a> if you are not able to view the video here.
+
+</p>
 
 </details>
 
@@ -148,7 +154,7 @@ Here's what youc an do:
    <li>Start the lab again wait for 5 minutes and end the lab and then check again.
    <li>Reach out to your Facilitator and they will help you here.
    <li>Reach out to the Google Cloud Skills Boost Chat support via the home page. (You will need to click on the help button "?" alongside your profile icon on the top right corner when logged-in in order to access chat support)
-   <li>Just drop an email to <a src="gcrfacilitator@qwiklabs.com">gcrfacilitator@qwiklabs.com</a>.
+   <li>Just drop an email to <a href="gcrfacilitator@qwiklabs.com">gcrfacilitator@qwiklabs.com</a>.
    </ul>
 </p>
 <br>
@@ -161,7 +167,7 @@ Here's what youc an do:
 
 1. Always reach out to your Facilitators first. They are the subject matter experts here who are specifically trained by Google for this program and they will be able help you with most of your queries.
    <br>
-2. Just reach out to the Google Cloud Skills Boost chat support or drop them an email at <a src="gcrfacilitator@qwiklabs.        com">gcrfacilitator@qwiklabs.com</a>.
+2. Just reach out to the Google Cloud Skills Boost chat support or drop them an email at <a href="gcrfacilitator@qwiklabs.        com">gcrfacilitator@qwiklabs.com</a>.
    <br>
 
 </p>
@@ -169,7 +175,7 @@ Here's what youc an do:
 <b> How to find my Google Cloud Skills Boost Public Profile URL?</b>
 
 <p>
-   Find the instructions to get the link to your Google Cloud Skills Boost Public Profile <a src="here">here</a> or you can just follow the steps given below. Here's what it should look like - "https://www.cloudskillsboost.google/public_profiles/PROFILE_ID".
+   Find the instructions to get the link to your Google Cloud Skills Boost Public Profile <a href="here">here</a> or you can just follow the steps given below. Here's what it should look like - "https://www.cloudskillsboost.google/public_profiles/PROFILE_ID".
    <br>
 1. Log-in to https://www.cloudskillsboost.google/.
    <br>
@@ -179,7 +185,7 @@ Here's what youc an do:
    <br>
 4. Give some time for the page to load. Once it loads, you will be on your profile page. Now just share the browser URL below. (That's your profile URL)
    <br>
-   TROUBLESHOOT: If in step 3, you did not see the button to make your profile public, then go to <a src="https://www.cloudskillsboost.google ">https://www.cloudskillsboost.google/focuses/2793?parent=catalog</a> and start the A Tour of Google Cloud Hands-on Labs" lab. (Spend at least 5 minutes) Once done, come back to <a src="https://www.cloudskillsboost.google/users/sign_in">https://www.cloudskillsboost.google/profile/activity and the button will be enabled now.</a>
+   TROUBLESHOOT: If in step 3, you did not see the button to make your profile public, then go to <a href="https://www.cloudskillsboost.google ">https://www.cloudskillsboost.google/focuses/2793?parent=catalog</a> and start the A Tour of Google Cloud Hands-on Labs" lab. (Spend at least 5 minutes) Once done, come back to <a href="https://www.cloudskillsboost.google/users/sign_in">https://www.cloudskillsboost.google/profile/activity and the button will be enabled now.</a>
 
 </p>
 
@@ -204,7 +210,7 @@ The above mentioned are few examples which can get your account blocked, if you 
 <b> Why does my Google Cloud Skills Boost page shows a red banner with "Quota Expired"?</b>
 
 <p>
-   As part of the credits pass, you have 5 attempts for each lab in the program. If you a try a lab more than 5 times, then your quota gets expired. To rest your quita, please reach out to <a src="gcrfacilitator@qwiklabs.com">gcrfacilitator@qwiklabs.com</a>.
+   As part of the credits pass, you have 5 attempts for each lab in the program. If you a try a lab more than 5 times, then your quota gets expired. To rest your quita, please reach out to <a href="gcrfacilitator@qwiklabs.com">gcrfacilitator@qwiklabs.com</a>.
 </p>
 
 <br>
@@ -212,7 +218,7 @@ The above mentioned are few examples which can get your account blocked, if you 
 <b> I have followed the steps in the email to get the credits pass, still I have not received it, what should I do?</b>
 
 <p>
-   Please repeat the steps again but this time in an incognito window and do remember to keep in mind the instructions given in the Google Cloud Skills Boost related FAQs above and you will surely get your credits. <a src ="Here is a video">Here is a video</a> that will help you get the pass..
+   Please repeat the steps again but this time in an incognito window and do remember to keep in mind the instructions given in the Google Cloud Skills Boost related FAQs above and you will surely get your credits. <a href ="Here is a video">Here is a video</a> that will help you get the pass..
 </p>
 
 <br>
@@ -220,7 +226,7 @@ The above mentioned are few examples which can get your account blocked, if you 
 <b> How to take a lab on Google Cloud Skills Boost?</b>
 
 <p>
-   Just see the video tutorial here to get started -  <a src="https://www.youtube.com/watch?v=cyp7soKLOYI">https://www.youtube.com/watch?v=cyp7soKLOYI</a>
+   Just see the video tutorial here to get started -  <a href="https://www.youtube.com/watch?v=cyp7soKLOYI">https://www.youtube.com/watch?v=cyp7soKLOYI</a>
 </p>
 <br>
 
@@ -234,14 +240,14 @@ The above mentioned are few examples which can get your account blocked, if you 
 <b> What is the difference between a Google Cloud Skills Boost Quest & a Google Cloud Skill Badge?</b>
 
 <p>
-   A Google Cloud Skills Boost quest is basically a group of labs using which you can learn and practice the concepts of Google Cloud on GCP. Whereas a Skill Badge for that quest, will help you test the skills that you have learned through a challenge lab. You can find more differences <a src="here">here</a>.
+   A Google Cloud Skills Boost quest is basically a group of labs using which you can learn and practice the concepts of Google Cloud on GCP. Whereas a Skill Badge for that quest, will help you test the skills that you have learned through a challenge lab. You can find more differences <a href="here">here</a>.
 </p>
 <br>
 
 <b> How can I update my profile picture in Google Cloud Skills Boost?</b>
 
 <p>
-   Just follow the instrsuctions given  <a src="here">here</a>.
+   Just follow the instrsuctions given  <a href="here">here</a>.
 </p>
 <br>
 
@@ -259,7 +265,7 @@ The above mentioned are few examples which can get your account blocked, if you 
 <br>
 <b> How to check if I had successfully completed my last lab?</b>
 <p>
-   Please check lab completions on the profile activity page of your Google Cloud Skills Boost account. You may refer to the <a src="https://www.cloudskillsboost.google/profile/activity ">https://www.cloudskillsboost.google/profile/activity page</a>.
+   Please check lab completions on the profile activity page of your Google Cloud Skills Boost account. You may refer to the <a href="https://www.cloudskillsboost.google/profile/activity ">https://www.cloudskillsboost.google/profile/activity page</a>.
 </p>
 
 <b> I accidently deleted my Google Cloud Skills Boost Public profile and now the URL of the profile is changed. How should I udpate my details?</b>
@@ -270,3 +276,15 @@ The above mentioned are few examples which can get your account blocked, if you 
 
 </details>
 
+---
+
+<footer>
+
+<center>
+
+<p> All data on this site is copy righted to Google</p>
+Copyright ©️ <a href="bit.ly/crf-site">GoogleCloudReady Facilitator Program</a>
+
+</center>
+
+</footer>

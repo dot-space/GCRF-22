@@ -1,6 +1,5 @@
-# GoogleCloudReady Facilitator Program
-
 <center>
+    <h1>GoogleCloudReady Facilitator Program</h1>
     <a href="https://dot-space.github.io/GCRF-22/">Home</a>
     &nbsp;
     <a href="https://dot-space.github.io/GCRF-22/prize">Prize Rules</a>
@@ -66,13 +65,15 @@
   <img src="https://contrib.rocks/image?repo=dot-space/GCRF-22" alt="contributors" />
 </a>
 
-
-<br><br><br>
+---
 
 <footer>
---
+
 <center>
+
 <p> All data on this site is copy righted to Google</p>
 Copyright ©️ <a href="bit.ly/crf-site">GoogleCloudReady Facilitator Program</a>
+
 </center>
+
 </footer>
