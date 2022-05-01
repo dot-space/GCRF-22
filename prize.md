@@ -111,7 +111,10 @@ If you have already completed one of the tracks above, you can go for the other 
 <br>
 <br>
 <img src="img/m4_prizes.png">
+
 <br>
+
+</details>
 
 ---
 
