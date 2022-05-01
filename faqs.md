@@ -1,4 +1,22 @@
-# Frequently Asked Questions
+# GoogleCloudReady Facilitator Program
+
+<center>
+    <a href="https://dot-space.github.io/GCRF-22/">Home</a>
+    &nbsp;
+    <a href="https://dot-space.github.io/GCRF-22/prize">Prize Rules</a>
+    &nbsp;
+    <a href="https://dot-space.github.io/GCRF-22/faqs">FAQs</a>
+    &nbsp;
+    <a href="https://dot-space.github.io/GCRF-22/tnc">Terms and Conditions</a>
+    &nbsp;
+    <a href="https://dot-space.github.io/GCRF-22/coc">Code of Conduct</a>
+    &nbsp;
+    <a href="https://dot-space.github.io/GCRF-22/team">Team</a>
+</center>
+
+---
+
+## Frequently Asked Questions
 
 Already enrolled in the program? Here’s what you should know.
 
@@ -76,6 +94,7 @@ Here's what youc an do:
 <br>
 
 <b> Where will the schwags be delivered - to my address or to my college address?</b>
+
 <p>
    Please note that you are required to submit your own residentials address where we can send the schwags once you win something. We will not be sending out your schwags to your institution unless absolutely required.
 </p>
@@ -94,7 +113,6 @@ Here's what youc an do:
    Sometimes due to how you have setup your email inbox, the links in the enrolment email might come out to be broken. Please do not worry about this. You can just copy and paste the hardcoded URLs in your browser added beside each link in the email and those should work too.
 </p>
 <br>
-
 
 </details>
 
@@ -127,11 +145,10 @@ Here's what youc an do:
    Here a few ways you can get unstuck:
    <br>
 
-1. Always reach out to your Facilitators first. They are the subject matter experts here who are specifically trained by Google  for this program and they will be able help you with most of your queries.
+1. Always reach out to your Facilitators first. They are the subject matter experts here who are specifically trained by Google for this program and they will be able help you with most of your queries.
    <br>
 2. Just reach out to the Google Cloud Skills Boost chat support or drop them an email at <a src="gcrfacilitator@qwiklabs.        com">gcrfacilitator@qwiklabs.com</a>.
    <br>
-
 
 </p>
 
@@ -158,12 +175,14 @@ Here's what youc an do:
    If you try to use the resources which are not intended to be used in the lab the account will get blocked. See our official support article here to get more clarity on why this happened.
 
 Here are a few examples which may lead to use resource out of the lab scope:
+
 - Creating an extra VM instance than the set limit for maximum number of instances you can launch in the Cloud Console for the lab.
 - Creating more number of nodes which are not intended to be created for the lab in the Cloud Console for the lab
 - Specifying extra number of cores in the machine types with higher computing power.
 - Running different commands which may lead to launch of extra resources other than the lab scope.
 
 The above mentioned are few examples which can get your account blocked, if you are doing anything similar, mentioned in the above examples your account can get blocked as a result of those actions as well." Please reach out to gcrfacilitator@qwiklabs.com to get it unblocked.
+
 </p>
 
 <br>
@@ -185,30 +204,35 @@ The above mentioned are few examples which can get your account blocked, if you 
 <br>
 
 <b> How to take a lab on Google Cloud Skills Boost?</b>
+
 <p>
    Just see the video tutorial here to get started -  <a src="https://www.youtube.com/watch?v=cyp7soKLOYI">https://www.youtube.com/watch?v=cyp7soKLOYI</a>
 </p>
 <br>
 
 <b>What is a Quest?</b>
+
 <p>
    A quest is a learning path that contains a number of hands-on labs. Complete a quest to earn a badge. Google Cloud Skills Boost Quests are learning paths that consist of a collection of labs organized by technologies, specific cloud services, and practical use cases. Quests range from introductory to advanced level.
 </p>
 <br>
 
 <b> What is the difference between a Google Cloud Skills Boost Quest & a Google Cloud Skill Badge?</b>
+
 <p>
    A Google Cloud Skills Boost quest is basically a group of labs using which you can learn and practice the concepts of Google Cloud on GCP. Whereas a Skill Badge for that quest, will help you test the skills that you have learned through a challenge lab. You can find more differences <a src="here">here</a>.
 </p>
 <br>
 
 <b> How can I update my profile picture in Google Cloud Skills Boost?</b>
+
 <p>
    Just follow the instrsuctions given  <a src="here">here</a>.
 </p>
 <br>
 
 <b> How to share badges on Social media?</b>
+
 <p>
    "1. Make your profile public.
    <br>
