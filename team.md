@@ -31,12 +31,33 @@
         </td>
         <td align="center">
             <a href="https://github.com/nityoday">
-                <img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/32616539?v=4" width="120px;" alt="nityodays photo"/>
+                <img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/32616539?v=4" width="120px;" alt="Nityoday's Githib Icon"/>
                 <br/>
                 <sub><b>Nityoday Tekchandani</b></sub>
                 </a>
         </td>
     </tr>
+    <tr>
+        <td align="center">
+            <a href="https://linkedIn.com/in/cmulay17">
+            <img src="https://raw.githubusercontent.com/cmulay/about/master/designs/socials/linkedin.png" width="20px">
+            </a>
+            <a href="https://twitter.com/cmulay17" style="margin-left: 10px;">
+            <img src="https://raw.githubusercontent.com/cmulay/about/master/designs/socials/twitter.png" width="20px">
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://linkedIn.com/in/nityoday">
+            <img src="https://raw.githubusercontent.com/cmulay/about/master/designs/socials/linkedin.png" width="20px">
+            </a>
+            <a href="https://instagram.com/nityoday" style="margin-left: 10px;">
+            <img src="https://raw.githubusercontent.com/cmulay/about/master/designs/socials/instagram.png" width="20px">
+            </a>
+        </td>
+        
+       
+    </tr>
+    
 </table>
 
 ## Contributors
