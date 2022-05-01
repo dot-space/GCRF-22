@@ -49,6 +49,8 @@ There are a lot of things in store for you. We want to make sure that by the end
 
 See the difference between a quest & a skill badge <a href="https://services.google.com/fh/files/emails/diff_quests_skillbadges.png">here</a>
 
+<br>    
+    
 2. And on top of these amazing badges, get a chance to <b> win some really cool Gooogle Cloud goodies\* 💪</b>. See [Prize Rules](https://dot-space.github.io/GCRF-22/prize) section
 
 <img src="img/prizes_home.png" />
