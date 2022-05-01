@@ -255,3 +255,14 @@ The above mentioned are few examples which can get your account blocked, if you 
 </p>
 
 </details>
+
+---
+
+<details>
+    <summary>How to Reedem Credits</summary>
+
+<br>
+
+[![Redeem Credits](img/thumbnail.png)](https://youtu.be/Qid_Z1251PI)
+
+</details>

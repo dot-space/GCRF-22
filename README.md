@@ -27,7 +27,11 @@ The GoogleCloudReady Facilitator program will provide you an opportunity to kick
 
 Along the way, you will learn & practice concepts like computing, application development, big data & machine learning using cloud & if you get stuck, you will have your "Facilitators" who are specially trained on Google Cloud to help. 😎
 
+<br>
+
+<a href="https://forms.gle/mTCHGw3cdEojdH4M6">
 <button style="background-color: #1266f1; color: white; border-radius: 5px; width: 200px; height: 35px">ENROL NOW</button>
+</a>
 
 </p>
 
@@ -57,9 +61,15 @@ For convinience, we have divided the topics above into 4 different tracks - star
 
 ### [Track 1 : Cloud Infrastructure Track](https://dot-space.github.io/GCRF-22/track_1)
 
+<br>
+
 ### [Track 2 : Cloud-native Application Development Track](https://dot-space.github.io/GCRF-22/track_2)
 
+<br>
+
 ### [Track 3 : Big Data & Machine Learning Track](https://dot-space.github.io/GCRF-22/track_3)
+
+<br>
 
 ### [Track 4 : Security, Machine Learning & AI](https://dot-space.github.io/GCRF-22/track_4)
 
