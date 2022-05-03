@@ -155,8 +155,7 @@ Here's what youc an do:
    <li>Reach out to your Facilitator and they will help you here.
    <li>Reach out to the Google Cloud Skills Boost Chat support via the home page. (You will need to click on the help button "?" alongside your profile icon on the top right corner when logged-in in order to access chat support)
    <li>Just drop an email to <a href="gcrfacilitator@qwiklabs.com">gcrfacilitator@qwiklabs.com</a>.
-   </ul>
-</p>
+  
 <br>
 
 <b>I am stuck! I need help with Google Cloud Skills Boost, what should I do?</b>
