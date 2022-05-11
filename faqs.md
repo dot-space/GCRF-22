@@ -36,24 +36,27 @@ You can restart the lab after it has been reset; in the meantime, proceed with t
 Use the E-Mail Template that we have provided below.
 Replace fields with the information from your lab.
 
+---
+    
 ```
-Dear GCR Facilitators,
+    
+    Dear GCR Facilitators,
 
-I am facing "Quota has been exceeded for this lab" error for the following lab.
+    I am facing "Quota has been exceeded for this lab" error for the following lab.
 
-Lab Code: <-- Your Lab Code -->
-Lab Name: <-- Your Lab Name -->
+    Lab Code: <-- Your Lab Code -->
+    Lab Name: <-- Your Lab Name -->
 
-My Program details are:
+    My Program details are:
 
-Email ID: <-- Your Email ID -->
+    Email ID: <-- Your Email ID -->
 
-Institute: Mukesh Patel School of Technology Management & Engineering, Shirpur
+    Institute: Mukesh Patel School of Technology Management & Engineering, Shirpur
 
-Kindly help me through this.
+    Kindly help me through this.
 
-Regards
-<-- Your Name -->
+    Regards
+    <-- Your Name -->
 
 ```
 
