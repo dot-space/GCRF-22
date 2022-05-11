@@ -22,6 +22,48 @@ Already enrolled in the program? Here’s what you should know.
 <br>
 
 <details>
+    <summary>Quota has been exceeded for this lab</summary>
+
+<br>
+
+<p>
+If you receive this error, it implies you have surpassed your quota for completing that lab.
+Each free lab has a maximum of five attempts, while paid labs have an infinite quota.
+
+You must request a lab reset from qwiklabs by sending an email to <a href="mailto:gcrfacilitator@qwiklabs.com">gcrfacilitator@qwiklabs.com</a> once you have used all five attempts.
+You can restart the lab after it has been reset; in the meantime, proceed with the other laboratories.
+
+Use the E-Mail Template that we have provided below.
+Replace fields with the information from your lab.
+
+```
+Dear GCR Facilitators,
+
+I am facing "Quota has been exceeded for this lab" error for the following lab.
+
+Lab Code: <-- Your Lab Code -->
+Lab Name: <-- Your Lab Name -->
+
+My Program details are:
+
+Email ID: <-- Your Email ID -->
+
+Institute: Mukesh Patel School of Technology Management & Engineering, Shirpur
+
+Kindly help me through this.
+
+Regards
+<-- Your Name -->
+
+```
+
+</p>
+
+</details>
+
+---
+
+<details>
     <summary>How to Reedem Credits</summary>
 
 <br>
