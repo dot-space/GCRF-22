@@ -33,13 +33,13 @@ Each free lab has a maximum of five attempts, while paid labs have an infinite q
 You must request a lab reset from qwiklabs by sending an email to <a href="mailto:gcrfacilitator@qwiklabs.com">gcrfacilitator@qwiklabs.com</a> once you have used all five attempts.
 You can restart the lab after it has been reset; in the meantime, proceed with the other laboratories.
 
-Use the E-Mail Template that we have provided below.
-Replace fields with the information from your lab.
+Use the E-Mail Template that we have provided below. Replace fields with the information from your lab.
 
----
+</p>
+    
+<p>
     
 ```
-    
     Dear GCR Facilitators,
 
     I am facing "Quota has been exceeded for this lab" error for the following lab.
@@ -57,9 +57,8 @@ Replace fields with the information from your lab.
 
     Regards
     <-- Your Name -->
-
 ```
-
+        
 </p>
 
 </details>
