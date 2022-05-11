@@ -17,7 +17,29 @@
 
 ## Team
 
-## Google Cloud Facilitators
+## Google Cloud Faculty Facilitators
+
+<table>
+    <tr>
+        <td align="center">
+            <a href="https://github.com/cmulay">
+                <img style="border-radius: 50%" src="https://media-exp1.licdn.com/dms/image/C4E03AQEhEkoYoYDa-Q/profile-displayphoto-shrink_800_800/0/1647275970606?e=1657756800&v=beta&t=RoWB_6-JfozokyXdEStS3K5qOGb2Fti1uiwAXnR4ZG8" width="120px;" alt="chinmays photo"/>
+                <br/>
+                <sub><b>Dr. Ketan Sabale</b></sub>
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="https://www.linkedin.com/in/ketansabale/">
+            <img src="https://raw.githubusercontent.com/cmulay/about/master/designs/socials/linkedin.png" width="20px">
+            </a>
+        </td>
+    </tr>
+    
+</table>
+
+## Google Cloud Student Facilitators
 
 <table>
     <tr>
@@ -56,8 +78,6 @@
             <img src="https://raw.githubusercontent.com/cmulay/about/master/designs/socials/instagram.png" width="20px">
             </a>
         </td>
-        
-       
     </tr>
     
 </table>
