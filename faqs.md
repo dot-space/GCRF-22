@@ -76,7 +76,30 @@ Regards
 <p>
 Video courtesy of <a href="https://www.youtube.com/channel/UCP7AcQRa7IZLUmkAtrcSzyQ/featured">Akshit from Google Cloud</a>.
 <br>
+<br>
 Cick <a href="https://youtu.be/Qid_Z1251PI">here</a> if you are not able to view the video here.
+
+</p>
+
+</details>
+
+---
+
+<details>
+    <summary>Problems in getting their SSH terminal connected</summary>
+
+<br>
+
+<video width="400" controls>
+   <source src="video/sshSoln.mp4" type="video/mp4">
+   Your browser does not support HTML video.
+</video>
+
+<p>
+Please use the "open SSH through cloud shell option"
+<br>
+<br>
+Cick <a href="https://drive.google.com/file/d/1oFAl5RILZzqzgkKX0xeZXkQBTZDU-Pey/view?usp=sharing">here</a> if you are not able to view the video here.
 
 </p>
 
