@@ -74,7 +74,7 @@ We have a ZERO TOLERANCE POLICY for harassment of any kind, including but not li
 
 <p>
 
-In relation to, but not limited to: Neurodiversity Race Color National origin Gender identity Gender expression Sexual orientation Age Body size Disabilities Appearance Religion Pregnancy Participants asked to stop any harassing behavior are expected to comply immediately. Our zero tolerance policy means that we will look into and review every allegation of violation of our Event Community Guidelines and Anti-Harassment Policy and respond appropriately. We empower and encourage you to report any behavior that makes you or others feel uncomfortable by finding a Google staff member or by emailing rohitgupta [at] google [dot] com.
+In relation to, but not limited to: Neurodiversity Race Color National origin Gender identity Gender expression Sexual orientation Age Body size Disabilities Appearance Religion Pregnancy Participants asked to stop any harassing behavior are expected to comply immediately. Our zero tolerance policy means that we will look into and review every allegation of violation of our Event Community Guidelines and Anti-Harassment Policy and respond appropriately. We empower and encourage you to report any behavior that makes you or others feel uncomfortable by finding a Google staff member or by emailing <a href="mailto:rohitgupta@google.com">rohitgupta@google.com</a>.
 
 <br>
 
