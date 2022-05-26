@@ -23,8 +23,6 @@
 
 Already enrolled in the program? Here’s what you should know.
 
-<br>
-
 <details>
     <summary>Quota has been exceeded for this lab</summary>
 
