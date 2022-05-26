@@ -21,7 +21,7 @@
 
 ## Frequently Asked Questions
 
-Already enrolled in the program? Here’s what you should know.
+Stuck somewhere? This might help.
 
 <details>
     <summary>Quota has been exceeded for this lab</summary>
