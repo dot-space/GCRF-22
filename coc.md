@@ -34,36 +34,25 @@ All participants of Google events must abide by the following policy:
 Be excellent to each other.
 </b>
 
-<br>
-
 <p>
 Treat everyone with respect. Participate while acknowledging that everyone deserves to be here — and each of us has the right to enjoy our experience without fear of harassment, discrimination, or condescension, whether blatant or via micro-aggressions. Jokes shouldn’t demean others. Consider what you are saying and how it would feel if it were said to or about you.
 </p>
-<br>
 
 <b>
 Speak up if you see or hear something.  
 </b>
 
-<br>
-
 <p>
 Harassment is not tolerated, and you are empowered to politely engage when you or others are disrespected. The person making you feel uncomfortable may not be aware of what they are doing, and politely bringing their behavior to their attention is encouraged. 
 </p>
 
-<br>
-
 <b>
-Practice saying "Yes and" to each other.  
+Practice saying "Yes and no" to each other.  
 </b>
-
-<br>
 
 <p>
 It’s a theatre improv technique to build on each other’s ideas. We all benefit when we create together. 
 </p>
-
-<br>
 
 <b>
 We have a ZERO TOLERANCE POLICY for harassment of any kind, including but not limited to:  

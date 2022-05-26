@@ -20,7 +20,6 @@
 ---
 
 <h1>Rules for availing the prizes</h1>
-<br>
 <p>
    To earn prizes in the program, you need to acheive some certain milestones - "The higher the milstones, the higher the prize!"
 
