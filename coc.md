@@ -100,7 +100,7 @@ This policy extends to talks, forums, workshops, codelabs, social media, parties
 <center>
 
 <p> All data on this site is copy righted to Google</p>
-Copyright ©️ <a href="bit.ly/crf-site">GoogleCloudReady Facilitator Program</a>
+Copyright ©️ <a href="https://events.withgoogle.com/googlecloudready-facilitator-program/">GoogleCloudReady Facilitator Program</a>
 
 </center>
 
