@@ -11,6 +11,10 @@
     <a href="https://dot-space.github.io/GCRF-22/coc">Code of Conduct</a>
     &nbsp;
     <a href="https://dot-space.github.io/GCRF-22/team">Team</a>
+    &nbsp;
+    <a href="https://bit.ly/crf-report">
+    <button style="background-color: #1266f1; color: white; border-radius: 5px; width: 150px; height: 28px">Track Progress</button>
+    </a>
 </center>
 
 ---
@@ -100,7 +104,7 @@ This policy extends to talks, forums, workshops, codelabs, social media, parties
 <center>
 
 <p> All data on this site is copy righted to Google</p>
-Copyright ©️ <a href="https://events.withgoogle.com/googlecloudready-facilitator-program/">GoogleCloudReady Facilitator Program</a>
+Copyright ©️ <a href="https://events.withgoogle.com/googlecloudready-facilitator-program/" target="_blank">GoogleCloudReady Facilitator Program</a>
 
 </center>
 
