@@ -26,7 +26,78 @@ Already enrolled in the program? Here’s what you should know.
 <br>
 
 <details>
-    <summary>General Program related Questions</summary>
+    <summary>Quota has been exceeded for this lab</summary>
+
+<br>
+
+<p>
+If you receive this error, it implies you have surpassed your quota for completing that lab.
+Each free lab has a maximum of five attempts, while paid labs have an infinite quota.
+
+You must request a lab reset from qwiklabs by sending an email to <a href="mailto:gcrfacilitator@qwiklabs.com">gcrfacilitator@qwiklabs.com</a> once you have used all five attempts.
+You can restart the lab after it has been reset; in the meantime, proceed with the other laboratories.
+
+Use the E-Mail Template that we have provided below. Replace fields with the information from your lab.
+<br>
+<a href="doc/emailtemplate.txt" download>
+   <button style="background-color: #1266f1; color: white; border-radius: 5px; width: 200px; height: 35px">Get Template</button>
+</a>
+
+</p>
+    
+</details>
+
+---
+
+<details>
+    <summary>How to Reedem Credits</summary>
+
+<br>
+
+<video width="400" controls>
+   <source src="video/instructions.mp4" type="video/mp4">
+   Your browser does not support HTML video.
+</video>
+
+<p>
+Video courtesy of <a href="https://www.youtube.com/channel/UCP7AcQRa7IZLUmkAtrcSzyQ/featured">Akshit from Google Cloud</a>.
+<br>
+<br>
+Cick <a href="https://youtu.be/Qid_Z1251PI">here</a> if you are not able to view the video here.
+
+</p>
+
+</details>
+
+---
+
+<details>
+    <summary>Problems in getting their SSH terminal connected</summary>
+
+<br>
+
+<video width="400" controls>
+   <source src="video/sshSoln.mp4" type="video/mp4">
+   Your browser does not support HTML video.
+</video>
+
+<p>
+Please use the "open SSH through cloud shell option"
+<br>
+<br>
+Cick <a href="https://drive.google.com/file/d/1oFAl5RILZzqzgkKX0xeZXkQBTZDU-Pey/view?usp=sharing">here</a> if you are not able to view the video here.
+
+</p>
+
+</details>
+
+---
+
+<br>
+
+#### Program Related
+<details>
+    <summary>General Program Related Questions</summary>
     
 <br>
 
@@ -254,82 +325,6 @@ The above mentioned are few examples which can get your account blocked, if you 
 
 <p>
    Please note that once the enrolment form is closed, you won't be able to update your new profile URL. But you can still try and share your updated URL with your facilitators and ask them to share it with us and we can then decide to update the details or not based on the type of request.
-</p>
-
-</details>
-
----
-
-<br>
-
-## Frequently Encountered Problems
-
-Stuck somewhere? Here’s what you need to do.
-    
-<br>
-
-<details>
-    <summary>Quota has been exceeded for this lab</summary>
-
-<br>
-
-<p>
-If you receive this error, it implies you have surpassed your quota for completing that lab.
-Each free lab has a maximum of five attempts, while paid labs have an infinite quota.
-
-You must request a lab reset from qwiklabs by sending an email to <a href="mailto:gcrfacilitator@qwiklabs.com">gcrfacilitator@qwiklabs.com</a> once you have used all five attempts.
-You can restart the lab after it has been reset; in the meantime, proceed with the other laboratories.
-
-Use the E-Mail Template that we have provided below. Replace fields with the information from your lab.
-<br>
-<a href="doc/emailtemplate.txt" download>
-<button style="background-color: #1266f1; color: white; border-radius: 5px; width: 200px; height: 35px">Download E-Mail Template</button>
-</a>
-
-</p>
-    
-</details>
-
----
-
-<details>
-    <summary>How to Reedem Credits</summary>
-
-<br>
-
-<video width="400" controls>
-   <source src="video/instructions.mp4" type="video/mp4">
-   Your browser does not support HTML video.
-</video>
-
-<p>
-Video courtesy of <a href="https://www.youtube.com/channel/UCP7AcQRa7IZLUmkAtrcSzyQ/featured">Akshit from Google Cloud</a>.
-<br>
-<br>
-Cick <a href="https://youtu.be/Qid_Z1251PI">here</a> if you are not able to view the video here.
-
-</p>
-
-</details>
-
----
-
-<details>
-    <summary>Problems in getting their SSH terminal connected</summary>
-
-<br>
-
-<video width="400" controls>
-   <source src="video/sshSoln.mp4" type="video/mp4">
-   Your browser does not support HTML video.
-</video>
-
-<p>
-Please use the "open SSH through cloud shell option"
-<br>
-<br>
-Cick <a href="https://drive.google.com/file/d/1oFAl5RILZzqzgkKX0xeZXkQBTZDU-Pey/view?usp=sharing">here</a> if you are not able to view the video here.
-
 </p>
 
 </details>
