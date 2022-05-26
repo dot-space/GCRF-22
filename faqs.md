@@ -262,7 +262,11 @@ The above mentioned are few examples which can get your account blocked, if you 
 
 <br>
 
-#### Problems Addressed
+## Frequently Encountered Problems
+
+Stuck somewhere? Here’s what you need to do.
+    
+<br>
 
 <details>
     <summary>Quota has been exceeded for this lab</summary>
@@ -279,7 +283,7 @@ You can restart the lab after it has been reset; in the meantime, proceed with t
 Use the E-Mail Template that we have provided below. Replace fields with the information from your lab.
 <br>
 <a href="doc/emailtemplate.txt" download>
-   <button style="background-color: #1266f1; color: white; border-radius: 5px; width: 200px; height: 35px">Get Template</button>
+<button style="background-color: #1266f1; color: white; border-radius: 5px; width: 200px; height: 35px">Download E-Mail Template</button>
 </a>
 
 </p>
