@@ -28,9 +28,7 @@ Along the way, you will learn & practice concepts like computing, application de
 
 <br><br>
 
-<a href="https://forms.gle/mTCHGw3cdEojdH4M6">
-<button style="background-color: #1266f1; color: white; border-radius: 5px; width: 200px; height: 35px">ENROL NOW</button>
-</a>
+<button style="background-color: #1266f1; color: white; border-radius: 5px; width: 200px; height: 35px">Enrolment Closed</button>
 
 <br>
 
@@ -51,9 +49,9 @@ There are a lot of things in store for you. We want to make sure that by the end
 
 See the difference between a quest & a skill badge <a href="https://services.google.com/fh/files/emails/diff_quests_skillbadges.png">here</a>
 
-<br><br>    
-    
-2. And on top of these amazing badges, get a chance to <b> win some really cool Gooogle Cloud goodies* 💪</b>. See <a href="https://dot-space.github.io/GCRF-22/prize">Prize Rules </a>section
+<br><br>
+
+2. And on top of these amazing badges, get a chance to <b> win some really cool Gooogle Cloud goodies\* 💪</b>. See <a href="https://dot-space.github.io/GCRF-22/prize">Prize Rules </a>section
 
 <img src="img/prizes_home.png" />
 
@@ -84,6 +82,8 @@ For convinience, we have divided the topics above into 4 different tracks - star
 
 <li><a href="https://dot-space.github.io/GCRF-22/track_4">Track 4 : Security, Machine Learning & AI</a></li>
 
+<li><a href="https://dot-space.github.io/GCRF-22/challenge_labs">Track 1 - 4: Challenge Labs</a></li>
+
 </ul>
 
 </p>
@@ -95,7 +95,7 @@ For convinience, we have divided the topics above into 4 different tracks - star
 <center>
 
 <p> All data on this site is copy righted to Google</p>
-Copyright ©️ <a href="bit.ly/crf-site">GoogleCloudReady Facilitator Program</a>
+Copyright ©️ <a href="https://events.withgoogle.com/googlecloudready-facilitator-program/">GoogleCloudReady Facilitator Program</a>
 
 </center>
 
