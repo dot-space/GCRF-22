@@ -19,7 +19,9 @@
 
 ---
 
-## Team
+<p align="center", style="font-size:180%;">
+    <b>Team</b>
+</p>
 
 ## Google Cloud Faculty Facilitators
 
