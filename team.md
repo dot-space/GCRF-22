@@ -19,7 +19,7 @@
 
 ---
 
-<p align="center", style="font-size:180%;">
+<p align="center" style="font-size:180%;">
     <b>Team</b>
 </p>
 
