@@ -50,12 +50,12 @@
 <table>
     <tr>
         <td align="center">
-        <a href = "https://github.com/cmulay">
-            <img style="border-radius: 50%"
-            src="https://avatars.githubusercontent.com/u/38172685?v=4" width="120px;" alt="chinmays photo"/>
-            <br/>
-            <sub><b>Chinmay Mulay</b></sub>
-        </a>
+            <a href="https://github.com/cmulay">
+                <img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/38172685?v=4" width="120px;" alt="chinmays photo"/>
+                <br/>
+                <sub><b>Chinmay Mulay</b></sub>
+            </a>
+        </td>
         <td align="center">
             <a href="https://github.com/nityoday">
                 <img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/32616539?v=4" width="120px;" alt="Nityoday's Githib Icon"/>
@@ -66,18 +66,26 @@
     </tr>
     <tr>
         <td align="center">
-        <a href="https://linkedIn.com/in/cmulay17">
-        <img src="https://raw.githubusercontent.com/cmulay/about/master/designs/socials/linkedin.png" width="20px">
-        </a>
+            <a href="https://linkedIn.com/in/cmulay17">
+            <img src="https://raw.githubusercontent.com/cmulay/about/master/designs/socials/linkedin.png" width="20px">
+            </a>
+            <a href="https://twitter.com/cmulay17" style="margin-left: 10px;">
+            <img src="https://raw.githubusercontent.com/cmulay/about/master/designs/socials/twitter.png" width="20px">
+            </a>
+            <a href="mailto:chinmay.mulay@icloud.com" style="margin-left: 10px;">
+            <img src="https://raw.githubusercontent.com/cmulay/about/master/designs/socials/gmail.png" width="20px">
+            </a>
+        </td>
         <td align="center">
             <a href="https://linkedIn.com/in/nityoday">
             <img src="https://raw.githubusercontent.com/cmulay/about/master/designs/socials/linkedin.png" width="20px">
             </a>
-                <a href="https://instagram.com/nityoday" style="margin-left: 10px;">
-                <img src="https://raw.githubusercontent.com/cmulay/about/master/designs/socials/instagram.png" width="20px">
-                </a>
+            <a href="https://instagram.com/nityoday" style="margin-left: 10px;">
+            <img src="https://raw.githubusercontent.com/cmulay/about/master/designs/socials/instagram.png" width="20px">
+            </a>
         </td>
     </tr>
+    
 </table>
 
 ## Contributors
