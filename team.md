@@ -69,13 +69,7 @@
             <a href="https://linkedIn.com/in/cmulay17">
             <img src="https://raw.githubusercontent.com/cmulay/about/master/designs/socials/linkedin.png" width="20px">
             </a>
-            <a href="https://twitter.com/cmulay17" style="margin-left: 10px;">
-            <img src="https://raw.githubusercontent.com/cmulay/about/master/designs/socials/twitter.png" width="20px">
-            </a>
-            <a href="mailto:chinmay.mulay@icloud.com" style="margin-left: 10px;">
-            <img src="https://raw.githubusercontent.com/cmulay/about/master/designs/socials/gmail.png" width="20px">
-            </a>
-        </td>
+         </td>
         <td align="center">
             <a href="https://linkedIn.com/in/nityoday">
             <img src="https://raw.githubusercontent.com/cmulay/about/master/designs/socials/linkedin.png" width="20px">
